@@ -47,9 +47,10 @@ Ethereum (technology to develop cryptocurrency / decentralised applications) <br
 
 <h3 align='center'>📫 Find me on </h3>
 <p align='center'>
-  <a href="https://instagram.com/greta.codes"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/greta.codes"><img height="30" src="https://user-images.githubusercontent.com/47504179/114736779-4ec50500-9d3e-11eb-9f25-78506d83e96e.png"></a>
+<!--   &nbsp;&nbsp; -->
   <a href="https://www.linkedin.com/in/gretaivan/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-  <a href="https://app.pluralsight.com/profile/greta-ivanauskaite"><img src>
+  <a href="https://app.pluralsight.com/profile/greta-ivan"><img height="30" src="https://user-images.githubusercontent.com/47504179/114736275-dd855200-9d3d-11eb-8f35-f5a3601477ba.png" /></a>
   <a href="https://dev.to/gretaivan"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
   [portfolio coming soon]
   [other coding profiles coming soon]
