@@ -9,7 +9,7 @@
 **gretaivan/gretaivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 # [![greta ivan header coming soon]()](my web)
 
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gretaivan&layout=compact&theme=radical)
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gretaivan&layout=compact&theme=radical&hide=html&langs_count=12)
 -->
 
 ### 🥜 Full-stack software engineer
@@ -21,7 +21,7 @@ Some of authorised to share contributions I made is called ΣMARTEST, which is a
 
 
 ### 🌱 My Tech Garden, is germinating these tech skills
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gretaivan&hide=html&layout=compact&theme=radical#" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gretaivan&layout=compact&theme=radical&hide=html&langs_count=12" />
 
 
 
