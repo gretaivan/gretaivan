@@ -57,7 +57,7 @@ Ethereum (technology to develop cryptocurrency / decentralised applications) <br
   
 
 
-[![Pluralsight knowledge badges](https://user-images.githubusercontent.com/47504179/114733457-415a4b80-9d3b-11eb-9a2e-578bc774da07.png)](https://app.pluralsight.com/profile/greta-ivan "@embed")
+[![Pluralsight knowledge badges](https://user-images.githubusercontent.com/47504179/114734346-099fd380-9d3c-11eb-9371-832e9793bc45.png)](https://app.pluralsight.com/profile/greta-ivan)
 ###### Click on the image to go to the skill IQ profile
 
 
