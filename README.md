@@ -52,9 +52,11 @@ Ethereum (technology to develop cryptocurrency / decentralised applications) <br
   <a href="https://www.linkedin.com/in/gretaivan/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
   <a href="https://app.pluralsight.com/profile/greta-ivan"><img height="30" src="https://user-images.githubusercontent.com/47504179/114736275-dd855200-9d3d-11eb-8f35-f5a3601477ba.png" /></a>
   <a href="https://dev.to/gretaivan"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
-  [portfolio coming soon]
-  [other coding profiles coming soon]
+  <a href="https://gretaivan.netlify.app/"><img height="30" src="https://user-images.githubusercontent.com/47504179/114738400-d52e1680-9d3f-11eb-80de-7c76a10231a7.png"></a>
 </p>
+
+
+
   
 
 
