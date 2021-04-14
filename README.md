@@ -22,7 +22,9 @@
 Some of authorised to share contributions I made is called ΣMARTEST, which is accessible [here](https://smartestknowledge.org/). If you are interested in trying out graph-based learning, please feel free to sign up!
 
 
-<br />
+
+<br /><br />
+
 
 ### 🌱 My Tech Garden, is germinating these tech skills
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gretaivan&layout=compact&theme=radical" />
@@ -39,8 +41,8 @@ Ethereum (technology to develop cryptocurrency / decentralised applications) <br
 
 <br />
 
-<h2 align="center"> 🔭 I’m actively looking to collaborate on projects.  </h2>
-<p align="center">Wether collaborating with developers, product managers, designers or anyone that would like their ideas to be realised.</p>
+<h2 align="center"> 🔭 I’m actively looking to collaborate on projects </h2>
+<p align="center"> Reach out if you need help with realising your ideas!</p>
 
 
 <h3 align='center'>📫 Find me on </h3>
@@ -55,13 +57,9 @@ Ethereum (technology to develop cryptocurrency / decentralised applications) <br
   
 
 
-
 [Knowledge badges](https://app.pluralsight.com/profile/greta-ivanauskaite "@embed")
 
 
-<!--other published projects--> 
-![Gretas's GitHub stats]()
-[![Top Langs]()
 
 
 
