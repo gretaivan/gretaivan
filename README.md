@@ -28,10 +28,12 @@ Some of authorised to share contributions I made is called ΣMARTEST, which is a
 Java <br />
 JavaScript <br />
 React <br />
-Jest <br/>
+Jest <br />
 Python <br />
-Machine Learning <br />
-Ethereum (technology to develop cryptocurrency / decentralised applications) <br />
+Django <br />
+Machine Learning -> Deep Learning <br />
+Ethereum <br />
+Cloud Associate <br />
 
 
 
