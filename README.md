@@ -58,7 +58,7 @@ Linux <br/>
   
 
 
-[![Pluralsight knowledge badges](https://user-images.githubusercontent.com/47504179/114734346-099fd380-9d3c-11eb-9371-832e9793bc45.png)](https://app.pluralsight.com/profile/greta-ivan)
+[![Pluralsight knowledge badges](https://user-images.githubusercontent.com/47504179/138264851-e7eb00f9-77ca-4c25-83f1-fa87d275c7c3.png)](https://app.pluralsight.com/profile/greta-ivan)
 ###### Click on the image to go to the skill IQ profile
 
 
