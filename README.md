@@ -34,7 +34,7 @@ Django <br />
 Machine Learning -> Deep Learning <br />
 Ethereum <br />
 Cloud Associate <br />
-
+Linux <br/>
 
 
 
