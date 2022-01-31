@@ -21,7 +21,7 @@ Some of authorised to share contributions I made is called ΣMARTEST, which is a
 
 
 ### 🌱 My Tech Garden, is germinating these tech skills
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gretaivan&layout=compact&theme=radical&hide=html,css&langs_count=12" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gretaivan&layout=compact&theme=radical&hide=html,css&langs_count=14" />
 
 
 
