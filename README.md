@@ -23,7 +23,7 @@ Some of authorised to share contributions I made is called ΣMARTEST, which is a
 ### 🌱 Skills in germination
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gretaivan&layout=compact&theme=radical&hide=html,css&langs_count=14" />
 
-
+Angular <br />
 ASP .NET <br />
 C# <br />
 Java <br />
