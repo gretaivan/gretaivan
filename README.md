@@ -20,11 +20,12 @@ Some of authorised to share contributions I made is called ΣMARTEST, which is a
 <br /><br />
 
 
-### 🌱 My Tech Garden, is germinating these tech skills
+### 🌱 Skills in germination
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gretaivan&layout=compact&theme=radical&hide=html,css&langs_count=14" />
 
 
-
+ASP .NET <br />
+C# <br />
 Java <br />
 JavaScript <br />
 React <br />
@@ -32,7 +33,6 @@ Jest <br />
 Python <br />
 Django <br />
 Machine Learning -> Deep Learning <br />
-Ethereum <br />
 Cloud Associate <br />
 Linux <br/>
 
