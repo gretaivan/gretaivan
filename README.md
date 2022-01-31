@@ -13,9 +13,9 @@
 -->
 
 ### 🥜 Full-stack software engineer
-Some of authorised to share contributions I made is called ΣMARTEST, which is accessible [here](https://smartestknowledge.org/). If you are interested in trying out graph-based learning, please feel free to sign up!
-
-
+Some of authorised to share contributions I made are:
+1. ΣMARTEST, which is accessible [here](https://smartestknowledge.org/). If you are interested in trying out graph-based learning, please feel free to sign up!
+2. Currently developing FLOCK website, next the app. Flock is attempting to create safer spaces for women and LGBTQ, through providing a toolset to connect individuals with each other and empower community to reclaim the basic right of being able to return home safely. 
 
 <br /><br />
 
