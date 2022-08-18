@@ -22,7 +22,7 @@ Some of the projects I am authrorised to share are:
 
 
 ### 🌱 Skills in germination
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gretaivan&layout=compact&theme=radical&hide=html,css&langs_count=14" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gretaivan&layout=compact&theme=radical&hide=html,css,cmake&langs_count=14" />
 
 Angular <br />
 ASP .NET <br />
