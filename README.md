@@ -36,6 +36,7 @@ Django <br />
 Machine Learning -> Deep Learning <br />
 Cloud Associate <br />
 Linux <br/>
+Solidity <br/>
 
 
 
